@@ -11,7 +11,7 @@ const getWeather = (location) => {
             messageOne.textContent = weatherData.location
             messageTwo.textContent = weatherData.forecast
         }
-    })
+    }) 
 })
 }
 
